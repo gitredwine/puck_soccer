@@ -1,0 +1,3 @@
+C:/youxi/build-box2d2/CMakeFiles/CMakeScratch/TryCompile-3zhk5v/CMakeFiles/cmTC_dcb1a.dir
+C:/youxi/build-box2d2/CMakeFiles/CMakeScratch/TryCompile-3zhk5v/CMakeFiles/edit_cache.dir
+C:/youxi/build-box2d2/CMakeFiles/CMakeScratch/TryCompile-3zhk5v/CMakeFiles/rebuild_cache.dir
