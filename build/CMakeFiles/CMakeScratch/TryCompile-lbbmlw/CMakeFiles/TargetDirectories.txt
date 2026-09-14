@@ -1,0 +1,3 @@
+C:/youxi/build/CMakeFiles/CMakeScratch/TryCompile-lbbmlw/CMakeFiles/cmTC_81168.dir
+C:/youxi/build/CMakeFiles/CMakeScratch/TryCompile-lbbmlw/CMakeFiles/edit_cache.dir
+C:/youxi/build/CMakeFiles/CMakeScratch/TryCompile-lbbmlw/CMakeFiles/rebuild_cache.dir
